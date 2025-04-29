@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+sentence-transformers
+pytorch-optimizer
+scikit-learn
+matplotlib
+scipy
+jupyter
